@@ -3,6 +3,10 @@
 
 ## Escuela de Verano Universidad Rey Juan Carlos. Aranjuez. 1 julio 2026
 
+### Material de apoyo
+
+<!-- Transparencias pendientes de incluirse -->
+
 ### Herramientas software
 * Java JDK 21+
 * Python 3.11+ (Anaconda Python)
