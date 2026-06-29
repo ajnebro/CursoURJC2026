@@ -1,5 +1,6 @@
 
 # Optimización Multiobjetivo con Algoritmos Evolutivos: Fundamentos y Aspectos Prácticos
+Antonio J. Nebro. Universidad de Málaga
 
 ## Escuela de Verano Universidad Rey Juan Carlos. Aranjuez. 1 julio 2025
 
