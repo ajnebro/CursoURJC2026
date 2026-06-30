@@ -5,7 +5,10 @@
 
 ### Material de apoyo
 
-<!-- Transparencias pendientes de incluirse -->
+* [Sesión 1: Introducción a la optimización multiobjetivo con algoritmos evolutivos](transparencias/Escuela%20de%20Verano-URJC-2026.Sesion%201.pdf)
+* [Sesión 2: Algoritmos representativos y comparación de rendimiento](transparencias/Escuela%20de%20Verano-URJC-2026.Sesion%202.pdf)
+* [Taller 1: Optimización Multi-Objectivo con jMetal](transparencias/Escuela%20de%20Verano-URJC-2026.Taller%201.pdf)
+* [Taller 2: Configuración automática de algoritmos y uso de Inteligencia Artificial Generativa](transparencias/Escuela%20de%20Verano-URJC-2026.Taller%202.pdf)
 
 ### Herramientas software
 * Java JDK 21+
